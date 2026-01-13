@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | AI |</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cloud+%26+DevOps+Learner;AI+%26+Web+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+Web+Developer" />
 </p>
 
 ---
@@ -30,16 +30,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHALSK7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHALSK7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHALSK7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VISHALSK7&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALSK7&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
