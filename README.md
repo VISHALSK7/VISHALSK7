@@ -1,22 +1,167 @@
-# 💫 About Me:
-👋 Hi there,<br>
-I'm Vishal Shenoy K<br>
-<br>
+<!-- ========================= TOP BANNER ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VISHALSK7/VISHALSK7/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/VISHALSK7/VISHALSK7/main/banner.png" width="100%" alt="Developer Banner"/>
 </p>
 
-I'm a Computer Science Engineering student (final year) at Vidyavardhaka College of Engineering, Mysuru, with a strong foundation in C, C++, Python, and Java, and a deep interest in Data Structures, Algorithms, and AI/ML. I love building impactful solutions that solve real-world problems.<br><br>🔍 I'm especially interested in:<br><br>AI / Machine Learning<br><br>Full-Stack Development — Developed platforms<br><br>Cloud & DevOps — Hands-on with AWS, Docker, GitHub, Jenkins, and Kubernetes<br><br>Network & Cybersecurity — Traffic analysis and threat detection<br><br>🚀 Featured Projects:<br><br>🌾 AgroGuardian AI - AI-powered crop disease detection from leaf images using deep learning and Grad-CAM, with weather forecasting and multilingual advisory<br><br>☁️ CloudGuard - AI-based cloud monitoring system tracking AWS EC2 resource utilization with CloudWatch<br><br>🛡️ NetShield - Real-time network traffic monitoring and threat detection system<br><br>💰 SpendWise AI - AI-powered personal finance platform with an OpenAI-powered conversational assistant<br><br>🧠 Chatbot and Data Convertor - AI powered chatbot and raw data converter<br><br>🌐 Online Ticket Booking System - Full-stack booking platform with atomic seat-locking and JWT auth<br><br>🌐 Phishing Email Detector System - Detects malicious email
+<h1 align="center">Hi 👋, I'm Vishal Shenoy K</h1>
+<h3 align="center">Computer Science Engineer • Software Developer • AI/ML Enthusiast</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Cloud+%26+Security+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;Turning+Ideas+Into+Real+Systems"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-shenoy-k/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalshenoy35@gmail.com) 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VISHALSK7&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VISHALSK7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VISHALSK7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALSK7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 👨‍💻 About Me
+
+🎓 **Final Year Computer Science Engineering Student**  
+🏫 **Vidyavardhaka College of Engineering, Mysuru**
+
+I enjoy building **scalable software systems and intelligent applications** that solve real-world problems.  
+My work combines **strong computer science fundamentals with modern development technologies**.
+
+### 💡 Interests
+
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Full Stack Engineering
+- Cloud Computing & Network Security
+
+---
+
+# 🧠 Core Computer Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data_Structures-0088CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Current Project
+
+## 🌾 AgroGuardian AI — Crop Disease Detection & Forecast System
+
+Developing an AI-powered agricultural platform that helps farmers **detect crop disease early and get accessible advisory support**, using **deep learning and location-based weather data**.
+
+### Key Features
+
+- 🍃 Crop disease detection from leaf images using deep learning
+- 🔍 Grad-CAM visual explanations for every diagnosis
+- 🌦️ Weather-based disease forecasting
+- 🗣️ Multilingual advisory and government scheme support
+
+### Technology Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,flask,tensorflow,git,github,docker,aws,vscode"/>
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,flask,fastapi,mongodb,mysql"/>
+
+</p>
+
+---
+
+# 🤖 Machine Learning & Data
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+</p>
+
+---
+
+# ⚙️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,jenkins,vscode"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Cloud Computing
+- System Design
+- Machine Learning Engineering
+- Network & Cybersecurity
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/VishalSK7/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vishalshenoy35@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/vishalsk7">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishal-shenoy-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ <b>"Great software is built where strong fundamentals meet real-world problems."</b>
+</p>
+
+<p align="center">
+⭐ From <b>Vishal Shenoy K</b>
+</p>
